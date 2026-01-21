@@ -1,0 +1,6 @@
+1.cellift.cc:41
+	add the function declearation
+2.cellift.cc:232
+	add the function reference
+3.add the X_ift.cc
+4.add the X_ift.o in the Makefile.inc
